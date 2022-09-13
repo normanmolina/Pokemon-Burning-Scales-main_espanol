@@ -1,46 +1,46 @@
 # Pokemon Burning Scales
 
-*Read this in other languages: [English](README.md), [Português](README.pt.md).*
+*Read this in other languages: [Español](README.md).*
 
 ![Thumbnail](https://user-images.githubusercontent.com/64505839/126537600-ea1142b8-32a6-4646-a451-77852e4e190a.png)
 
-Pokemon fan game that focuses on a rich story and on the exploration of a small open world full of sidequests. Made with Pokémon Essentials v19.1 and RPG Maker XP.
+Juego de fans de Pokémon que se centra en una rica historia y en la exploración de un pequeño mundo abierto lleno de misiones secundarias. Hecho con Pokémon Essentials v19.1 y RPG Maker XP.
 
-For now, Pokemon Burning Scales is only available in Portuguese. I plan to start translating it into English as soon as I finish the main story.
+Por ahora, Pokémon Burning Scales está siendo procesado en español. 
 
-## Story
+## Historia
 
-In Pokemon Burning Scales you play as Nathan, a pokemon trainer that has traveled around the world. In the past months, he's staying in Unova, helping professor Juniper in her researches about a new unknown pokemon form. But a mysterious pokemon starts to cause trouble in the southern part of Unova. Nathan, then, needs to solve this new problem while trying to understand more about the origin of these mysterious new pokemon forms.
+En Pokemon Burning Scales juegas como Nathan, un entrenador de pokemon que ha viajado por todo el mundo. En los últimos meses, se ha quedado en Unova, ayudando a la profesora Juniper en sus investigaciones sobre una nueva forma de Pokémon desconocida. Pero un misterioso Pokémon comienza a causar problemas en la parte sur de Unova. Nathan, entonces, necesita resolver este nuevo problema mientras trata de entender más sobre el origen de estas misteriosas nuevas formas de Pokémon.
 
-## Features
+## Características
 
-* **A different story.** Perfect for the ones that are tired of defeating gym leaders and the Elite 4.
-* **A small open world to travel.** Although there aren't many routes and cities, they are available since the beginning of the game.
-* **Wild pokemon and trainers auto-level scaling**.
-* **A lot of sidequests**. That can generate hours of extra content apart from the main story.
-* **Choices that impact the story**, reveal additional information and provide funny situations.
-* **A difficulty system**, with three different options based pokémon in your party levels.
-* **Pokémon walking on the routes**.
-* **Different pokemon depending on the time of the day**.
-* **A few pokemon with altered forms**.
+* **Una historia diferente.** Perfecto para los que están cansados de derrotar a los líderes del gimnasio y al Elite 4.
+* **Un pequeño mundo abierto para viajar.** Aunque no hay muchas rutas y ciudades, están disponibles desde el comienzo del juego.
+* **Pokémon salvaje y escalado automático de nivel de entrenadores**.
+* **Muchas misiones secundarias**. Eso puede generar horas de contenido extra aparte de la historia principal.
+* **Opciones que impactan en la historia**, revelan información adicional y brindan situaciones divertidas.
+* **Un sistema de dificultad**, con tres opciones diferentes de pokémon según los niveles de tu grupo.
+* **Pokémon caminando por las rutas**.
+* **Diferentes pokemon dependiendo de la hora del día**.
+* **Algunos Pokémon con formas alteradas**.
 
-### Quality of life
+### Calidad de vida
 
-* **Perfect IVs mode** (optional).
-* **Super easy EV grind**, with the option to maximize EVs by defeating certain trainers or by using cheaper vitamins.
-* **Auto saving** (optional).
+* **Modo Perfect IVs** (opcional).
+* **Golpe de EV súper fácil**, con la opción de maximizar los EV al derrotar a ciertos entrenadores o al usar vitaminas más baratas.
+* **Guardado automático** (opcional).
 
-### Plugin features
+### Características del complemento
 
-* **Quests System**. That shows all your registered quests, including your next objectives and locations. Using [Modern Quest System](https://reliccastle.com/resources/709/).
-* **A system that shows available pokemon in the route.** And which were already captured or seen. Using [Encounter List UI](https://reliccastle.com/resources/658/).
-* **Nuzlocke and randomizer modes**. Using [Elite Battle DX](https://luka-sj.com/res/ebdx).
-* **Wonder Trade-like system**, you can spend money to get a random pokemon in its first form. Using [Random Pokemon Selector](https://reliccastle.com/resources/693/).
+* **Sistema de misiones**. Eso muestra todas sus misiones registradas, incluidos sus próximos objetivos y ubicaciones. Usando [Sistema de búsqueda moderno] (https://reliccastle.com/resources/709/).
+* **Un sistema que muestra los pokemon disponibles en la ruta.** Y que ya fueron capturados o vistos. Usando la [IU de la lista de encuentros] (https://reliccastle.com/resources/658/).
+* **Modos Nuzlocke y aleatorizador**. Usando [Elite Battle DX] (https://luka-sj.com/res/ebdx).
+* **Sistema similar a Wonder Trade**, puedes gastar dinero para obtener un pokemon aleatorio en su primera forma. Usando [Selector de Pokémon aleatorio] (https://reliccastle.com/resources/693/).
 
-### Balance Changes
+### Cambios de saldo
 
-* **Ice Type Buff**, ice type pokemon resist to ice, water, flying and ground moves. Hail increases ice types defense by 50%.
-* **Bug Type Buff**, bug type pokemon resist fairy, psychic and dark type moves, in adition to its original resistances. Bug type moves are supereffective against fairy types and neutral against fighting types.
+* **Mejora tipo hielo**, los Pokémon tipo hielo resisten movimientos de hielo, agua, vuelo y tierra. El granizo aumenta la defensa de los tipos de hielo en un 50%.
+* **Bug Type Buff**, Pokémon tipo bicho resisten movimientos de tipo hada, psíquico y oscuro, además de sus resistencias originales. Los movimientos de tipo insecto son supereficaces contra los de tipo hada y neutrales contra los de tipo lucha.
 
 ## Screenshots
 
