@@ -1,0 +1,9 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[000]
+EndSpeechLose = "Man, I lost!"
+Name = RENULS
+PokemonNos = 5,8,13,21,27,33,36,42,44,48,57,58,74,78,94,104
+BeginSpeech = Here I come!
+Type = YOUNGSTER
+EndSpeechWin = "Yes, I won!"

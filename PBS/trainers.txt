@@ -1,0 +1,529 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[LEADER_Elesa,Elesa]
+LoseText = "Muy bien."
+Pokemon = EMOLGA,9
+Pokemon = MAREEP,9
+Pokemon = BLITZLE,9
+#-------------------------------
+[LINEBACKER,Atleta de Nimbasa]
+LoseText = "Wow, eres fuerte, hermano!"
+Pokemon = DARUMAKA,7
+Pokemon = TIMBURR,7
+#-------------------------------
+[CUEBALL,Motociclista de Undella]
+LoseText = "¡Eso es luchar!"
+Pokemon = VENIPEDE,9
+Pokemon = FOONGUS,9
+#-------------------------------
+[LASS,Niña de Panpour]
+LoseText = "¡Eres muy fuerte!"
+Pokemon = PANPOUR,10
+#-------------------------------
+[AROMALADY,Lucina]
+LoseText = "Emocionante!"
+Pokemon = TIRTOUGA,15
+    Shiny = yes
+#-------------------------------
+[YOUNGSTER,Chico del parque]
+LoseText = "Gran batalla."
+Pokemon = DITTO,10
+Pokemon = SMEARGLE,10
+Pokemon = CASTFORM,10
+#-------------------------------
+[FISHERMAN,Pescador del parque]
+LoseText = "¡Eres muy fuerte!"
+Pokemon = KRABBY,15
+Pokemon = CARVANHA,15
+Pokemon = TYMPOLE,15
+#-------------------------------
+[BUGCATCHER,Ben]
+LoseText = "..."
+Pokemon = BUTTERFREE,18
+Pokemon = IVYSAUR,18
+Pokemon = MAGIKARP,19
+Pokemon = PIDGEOTTO,20
+#-------------------------------
+[CAMPER,Ben]
+LoseText = "..."
+Pokemon = BAYLEEF,18
+Pokemon = KADABRA,20
+Pokemon = PILOSWINE,19
+#-------------------------------
+[BIRDKEEPER,Ben]
+LoseText = "..."
+Pokemon = SWELLOW,19
+Pokemon = BLAZIKEN,20
+Pokemon = IVYSAUR,19
+Pokemon = GYARADOS,20
+Pokemon = METANG,20
+#-------------------------------
+[TUBER_M,Ben]
+LoseText = "..."
+Pokemon = STARAVIA,20
+Pokemon = VESPIQUEN,19
+Pokemon = MAGMAR,20
+    Shiny = yes
+Pokemon = GROTLE,21
+Pokemon = PILOSWINE,20
+Pokemon = FLOATZEL,19
+#-------------------------------
+[YOUNGSTER,Ben]
+LoseText = "..."
+Pokemon = MARACTUS,20
+Pokemon = LUCARIO,21
+Pokemon = UNFEZANT,20
+Pokemon = ZOROARK,21
+Pokemon = SAMUROTT,20
+Pokemon = COFAGRIGUS,21
+#-------------------------------
+[GENTLEMAN,Director de FNF]
+LoseText = "¡Puedo aprender mucho de ti!"
+Pokemon = UMBREON,12
+Pokemon = ALOMOMOLA,13
+Pokemon = ESPEON,13
+#-------------------------------
+[MODEL,Nicole]
+LoseText = "¡Ah, mi belleza es realmente externa!"
+Pokemon = ELEKID,10
+#-------------------------------
+[MODEL,Molly]
+LoseText = "¡Tiempo de bailar!"
+Pokemon = BLITZLE,11
+#-------------------------------
+[MODEL,Selly]
+LoseText = "El estándar de belleza es una cosa, ¡todo lo mismo es demasiado!"
+Pokemon = BLITZLE,11
+Pokemon = EMOLGA,11
+#-------------------------------
+[POKEMONTRAINER_Anna,Anna]
+LoseText = "A ver si pronto será así."
+Pokemon = ABSOLP,20
+Pokemon = WHIRLIPEDE,20
+Pokemon = PALPITOAD,20
+Pokemon = LARVESTA,20
+#-------------------------------
+[ASSISTANT,Asistente del Torneo]
+LoseText = "No puedo dejar..."
+Pokemon = AUDINO,20
+Pokemon = CHANSEY,20
+#-------------------------------
+[FISHERMAN_Marcos,Marcos]
+LoseText = "¿Pero ya?"
+Pokemon = GYARADOS,20
+    Moves = THRASH,BITE,TACKLE,SPLASH
+Pokemon = FRILLISH,21
+    Moves = BUBBLEBEAM,NIGHTSHADE,ABSORB,RECOVER
+    AbilityIndex = 1
+Pokemon = CARVANHA,20
+    Moves = AQUAJET,ICEFANG,POISONFANG,BITE
+Pokemon = HUNTAIL,21
+    Moves = BRINE,ICEFANG,FEINTATTACK,SCREECH
+Pokemon = MAGIKARP,23
+    Shiny = yes
+    Moves = TACKLE,SPLASH
+    Item = CHOICEBAND
+#-------------------------------
+[FISHERMAN_Marcos,Marcos,1]
+LoseText = "¿Pero ya?"
+Pokemon = MAGIKARP,20
+    Shiny = yes
+    Moves = TACKLE,SPLASH
+    Item = CHOICEBAND
+Pokemon = FRILLISH,21
+    AbilityIndex = 1
+Pokemon = CLAMPERL,21
+#-------------------------------
+[LEADER_Giovanni,Giovanni]
+Items = SUPERPOTION
+LoseText = "Como en los viejos tiempos."
+Pokemon = NIDORINO,22
+    Moves = PECK,POISONSTING,DOUBLEKICK,FURYATTACK
+Pokemon = RHYHORN,21
+    Moves = SMACKDOWN,SCARYFACE,STOMP,BULLDOZE
+    AbilityIndex = 1
+Pokemon = KANGASKHAN,21
+    Moves = LEER,FAKEOUT,BITE,DOUBLEHIT
+Pokemon = NIDORINA,22
+    Moves = DOUBLEKICK,TAILWHIP,POISONSTING,FURYSWIPES
+#-------------------------------
+[LEADER_Giovanni,Giovanni,1]
+Items = POTION
+LoseText = "Como en los viejos tiempos."
+Pokemon = NIDORANmA,22
+Pokemon = RHYHORN,21
+    AbilityIndex = 1
+Pokemon = NIDORANfE,22
+#-------------------------------
+[POKEMONTRAINER_Albert,Albert]
+Items = SUPERPOTION
+LoseText = "No esperaba encontrar a alguien tan fuerte..."
+Pokemon = MEDITITE,22
+    Moves = FORCEPALM,HIDDENPOWER,CONFUSION,DETECT
+Pokemon = TORKOAL,22
+    Moves = RAPIDSPIN,FLAMEWHEEL,FIRESPIN,CURSE
+Pokemon = PIGNITE,23
+    Moves = ARMTHRUST,FLAMECHARGE,ROLLOUT,SMOG
+Pokemon = HARIYAMA,24
+    Moves = TACKLE,VITALTHROW,KNOCKOFF,BRINE
+Pokemon = COMBUSKEN,23
+    Moves = FLAMECHARGE,PECK,SCRATCH,SANDATTACK
+#-------------------------------
+[POKEMONTRAINER_Albert,Albert,1]
+Items = POTION
+LoseText = "No esperaba encontrar a alguien tan fuerte..."
+Pokemon = PIGNITE,23
+Pokemon = HARIYAMA,24
+Pokemon = COMBUSKEN,23
+#-------------------------------
+[POKEMONTRAINER_Robert,Robert]
+LoseText = "Tan fuerte como me imaginaba."
+Pokemon = GURDURR,25
+    Moves = SLAM,ROCKSLIDE,LOWKICK,BULKUP
+    AbilityIndex = 0
+Pokemon = DRILBUR,24
+    Moves = ROCKTOMB,BULLDOZE,METALCLAW,SANDSTORM
+    AbilityIndex = 1
+Pokemon = KROKOROK,25
+    Moves = BITE,BULLDOZE,SANDTOMB,SWAGGER
+#-------------------------------
+[POKEMONTRAINER_Robert,Robert,1]
+LoseText = "Tan fuerte como me imaginaba."
+Pokemon = TIMBURR,25
+    AbilityIndex = 0
+Pokemon = DRILBUR,24
+    AbilityIndex = 1
+Pokemon = KROKOROK,25
+#-------------------------------
+[CHAMPION_Anna,Anna]
+Items = SUPERPOTION
+LoseText = "¡No creo en eso!"
+Pokemon = ABSOLP,25
+    Moves = THUNDERFANG,TAUNT,QUICKATTACK,SWORDSDANCE
+    Item = ABSOLITE
+Pokemon = PALPITOAD,25
+    Moves = UPROAR,BUBBLEBEAM,MUDSHOT,SUPERSONIC
+Pokemon = LARVESTA,25
+    Moves = EMBER,TAKEDOWN,ABSORB,STRINGSHOT
+Pokemon = WHIRLIPEDE,25
+    Moves = POISONTAIL,BUGBITE,ROLLOUT,PROTECT
+#-------------------------------
+[CHAMPION_Anna,Anna,1]
+Items = POTION
+LoseText = "¡No creo en eso!"
+Pokemon = ABSOLP,25
+    Item = ABSOLITE
+Pokemon = TYMPOLE,25
+Pokemon = LARVESTA,25
+#-------------------------------
+[SCIENTIST,Pescador de fósiles]
+LoseText = "Muy bien, ganaste."
+Pokemon = KLINK,15
+Pokemon = MAGNEMITE,15
+Pokemon = TIRTOUGA,15
+#-------------------------------
+[POKEMONTRAINER_Apaixonado,Enamorado]
+LoseText = "Fue una pelea justa."
+Pokemon = LIEPARD,20
+Pokemon = AUDINO,20
+#-------------------------------
+[HIKER,Caminante de Ruta 4]
+LoseText = "Has demostrado ser digno."
+Pokemon = GEODUDE,25
+Pokemon = BOLDORE,25
+Pokemon = DWEBBLE,20
+#-------------------------------
+[SUPERNERD,Pervertido]
+LoseText = "Je, poderoso."
+Pokemon = GOTHITA,20
+Pokemon = LILLIGANT,20
+#-------------------------------
+[TUBER_F,Niña de playa]
+LoseText = "Aaaaaaah."
+Pokemon = FINNEON,20
+Pokemon = ALOMOMOLA,20
+#-------------------------------
+[ENGINEER,Cara de basura]
+LoseText = "Muy bien."
+Pokemon = CACNEA,20
+Pokemon = DRILBUR,20
+Pokemon = ROCKRUFF,20
+#-------------------------------
+[BLACKBELT,Padre luchador]
+LoseText = "Buena fiesta."
+Pokemon = MEDITITE,15
+Pokemon = HELIOPTILE,15
+Pokemon = ONIX,15
+#-------------------------------
+[FISHERMAN,Pescador de Ruta 4]
+LoseText = "Un entrenador digno."
+Pokemon = WAILORD,15
+    Shiny = yes
+#-------------------------------
+[BIKER,Motociclista 1]
+LoseText = "¡No será así!"
+Pokemon = GRIMER,12
+Pokemon = ZUBAT,12
+#-------------------------------
+[BIKER,Motociclista 2]
+LoseText = "¡Habla en serio!"
+Pokemon = TRUBBISH,12
+Pokemon = SKORUPI,12
+#-------------------------------
+[CUEBALL,Motociclista guardia]
+LoseText = "Hasta que sea fuerte."
+Pokemon = GRIMER,14
+Pokemon = KOFFING,14
+#-------------------------------
+[BIKER,Motociclista antipacifista]
+LoseText = "Atornillado."
+Pokemon = PAWNIARD,14
+Pokemon = RUFFLET,14
+#-------------------------------
+[BIKER,Motociclista bastardo]
+LoseText = "¡Ve a beber jugo de anacardo!"
+Pokemon = VULLABY,14
+Pokemon = SANDILE,14
+#-------------------------------
+[BIKER,Motociclista de seguridad]
+LoseText = "Batalla justa."
+Pokemon = SKUNTANK,15
+Pokemon = MUK,15
+#-------------------------------
+[CUEBALL,Motociclista recepcionista]
+LoseText = "Creo que te gustará estar aquí."
+Pokemon = GOLBAT,15
+Pokemon = GOLBAT,15
+#-------------------------------
+[CUEBALL,Motociclista de prisión 1]
+LoseText = "¡Ah no!"
+Pokemon = CROAGUNK,15
+Pokemon = SCRAFTY,15
+#-------------------------------
+[CUEBALL,Motociclista de prisión 2]
+LoseText = "Maldición..."
+Pokemon = GULPIN,15
+Pokemon = MAWILE,15
+#-------------------------------
+[POKEMONTRAINER_Beethoven,Beethoven]
+LoseText = "El pandemonio..."
+Pokemon = CHATOT,15
+Pokemon = CHINGLING,15
+Pokemon = LOUDRED,15
+Pokemon = KRICKETUNE,15
+#-------------------------------
+[BIKER,Motociclista guardacosta 1]
+LoseText = "¡Lo siento jefe!"
+Pokemon = SCRAGGY,20
+Pokemon = CLEFAIRY,20
+Pokemon = GRANBULL,20
+#-------------------------------
+[BIKER,Motociclista guardacosta 2]
+LoseText = "Aquí viene el regaño..."
+Pokemon = VULLABY,20
+Pokemon = JIGGLYPUFF,20
+Pokemon = GRANBULL,20
+#-------------------------------
+[CUEBALL,Motociclista de elite 1]
+LoseText = "Guau"
+Pokemon = BISHARP,23
+Pokemon = GRAPPLOCT,23
+#-------------------------------
+[CUEBALL,Motociclista de elite 2]
+LoseText = "El tipo es fuerte."
+Pokemon = KROKOROK,23
+Pokemon = MIGHTYENA,23
+#-------------------------------
+[BIKERBOSS,Jefe de los Motociclistas]
+Items = SUPERPOTION
+LoseText = "No. No. ¡Nooooooo!"
+Pokemon = CRAWDAUNT,25
+Pokemon = OBSTAGOON,25
+Pokemon = HOUNDOOM,25
+    Item = HOUNDOOMINITE
+Pokemon = TOXTRICITY,25
+Pokemon = MORGREM,25
+Pokemon = SCOLIPEDE,25
+#-------------------------------
+[POKEMONTRAINER_Jasmine,Jasmine]
+Items = SUPERPOTION
+LoseText = "¡Ahí no!"
+Pokemon = ARCANINE,25
+Pokemon = STOUTLAND,25
+Pokemon = SWANNA,25
+Pokemon = STARAPTOR,25
+#-------------------------------
+[BIKERLEADER,Líder de los Motociclistas]
+Items = SUPERPOTION
+LoseText = "Una victoria, de verdad."
+Pokemon = DUGTRIOP,25
+Pokemon = MANDIBUZZ,25
+Pokemon = BASCULIN,25
+Pokemon = HEATMOR,25
+Pokemon = SCEPTILE,25
+    Form = 2
+#-------------------------------
+[CUEBALL,Motociclista de Sala de Investigación]
+LoseText = "¡¡¡No no no no no NO!!!"
+Pokemon = SCRAGGY,15
+Pokemon = MAGNEMITE,15
+#-------------------------------
+[CUEBALL,Guardia del Complejo]
+LoseText = "¡Maldición!"
+Pokemon = WOOBAT,16
+Pokemon = GRIMER,16
+Pokemon = ROGGENROLA,17
+Pokemon = SANDSHREW,17
+#-------------------------------
+[BIKER,Motociclista de la entrada]
+LoseText = "¡Maldición!"
+Pokemon = WOOBAT,16
+Pokemon = ROGGENROLA,17
+#-------------------------------
+[CUEBALL,Motociclista de Scraggy]
+LoseText = "Humph."
+Pokemon = SCRAGGY,20
+#-------------------------------
+[BIKER,Motociclista bloqueador]
+LoseText = "¡Maldición!"
+Pokemon = SKORUPI,22
+Pokemon = VULLABY,22
+Pokemon = PAWNIARD,22
+#-------------------------------
+[COOLTRAINER_M,Aspirante a Policía]
+LoseText = "Me esfuerzo más."
+Pokemon = SERVINE,20
+Pokemon = SWALOT,20
+Pokemon = RELICANTH,20
+Pokemon = MAWILE,20
+#-------------------------------
+[POLICEMAN,Policía de Calle Castelia]
+LoseText = "¡Buena batalla!"
+Pokemon = HERDIER,20
+Pokemon = GROWLITHE,20
+#-------------------------------
+[CUEBALL,Motociclista de Calle Narrow]
+LoseText = "Humph."
+Pokemon = JOLTIK,20
+Pokemon = SKORUPI,20
+#-------------------------------
+[CUEBALL,Motociclista que da paso]
+LoseText = "¡Ya verás!"
+Pokemon = SCRAGGY,20
+Pokemon = SKORUPI,20
+#-------------------------------
+[SAILOR,Marinero corsario]
+LoseText = "ARrrrrrrrr!"
+Pokemon = CHATOT,20
+Pokemon = DHELMISE,20
+Pokemon = SANDYGAST,20
+Pokemon = DOUBLADE,20
+#-------------------------------
+[FISHERMAN,Tommy]
+LoseText = "No puedo creer..."
+Pokemon = MAGIKARP,20
+Pokemon = MAGIKARP,20
+Pokemon = MAGIKARP,20
+Pokemon = MAGIKARP,20
+Pokemon = MAGIKARP,20
+Pokemon = MAGIKARP,20
+#-------------------------------
+[LASS,Novia de Flavio]
+LoseText = "Buena batalla."
+Pokemon = WHIMSICOTT,20
+Pokemon = TOGEKISS,20
+Pokemon = AZUMARILL,20
+#-------------------------------
+[PSYCHIC_F,Ensayador]
+LoseText = "Está listo."
+Pokemon = ABRA,20
+Pokemon = EXEGGCUTE,20
+Pokemon = SMOOCHUM,20
+Pokemon = WOOBAT,20
+Pokemon = INKAY,20
+Pokemon = STARMIE,20
+#-------------------------------
+[SUPERNERD,Dediê Dedicado]
+LoseText = "¡Ah no!"
+Pokemon = KLINK,20
+Pokemon = MAGNEMITE,20
+#-------------------------------
+[HEXMANIAC,Ex del Enamorado]
+LoseText = "¡Maldición!"
+Pokemon = NOIBAT,20
+Pokemon = HYPNO,20
+Pokemon = MISMAGIUS,20
+Pokemon = PHANTUMPP,20
+#-------------------------------
+[POKEMONTRAINER_Robert,Robert,2]
+LoseText = "Necesito mejorar mi estrategia..."
+Pokemon = HIPPOPOTAS,25
+    Item = EVIOLITE
+Pokemon = GURDURR,25
+    AbilityIndex = 0
+    Item = FLAMEORB
+Pokemon = EXCADRILL,24
+    AbilityIndex = 1
+    Item = LEFTOVERS
+Pokemon = KROKOROK,25
+    Item = CHOPLEBERRY
+#-------------------------------
+[SUPERNERD,Cientifico rechonchudo]
+LoseText = "¡Buena batalla!"
+Pokemon = CHANSEY,20
+Pokemon = WOBBUFFET,20
+Pokemon = WAILMER,20
+    Item = EVIOLITE
+Pokemon = DRIFBLIM,20
+Pokemon = SNORLAX,20
+Pokemon = VAPOREON,20
+#-------------------------------
+[SCIENTIST,Cientifico malvado]
+LoseText = "¡Buena batalla!"
+Pokemon = DARMANITAN,20
+Pokemon = CONKELDURR,20
+Pokemon = ESCAVALIER,20
+Pokemon = DHELMISE,20
+Pokemon = SCIZOR,20
+Pokemon = FLAREON,20
+#-------------------------------
+[SUPERNERD,Cientifico espacioso]
+LoseText = "¡Buena batalla!"
+Pokemon = SHUCKLE,20
+Pokemon = STEELIX,20
+Pokemon = CLOYSTER,20
+Pokemon = DOUBLADE,20
+    Item = EVIOLITE
+Pokemon = RUNERIGUS,20
+Pokemon = LEAFEON,20
+#-------------------------------
+[LASS,Cientifico acelerado]
+LoseText = "¡Buena batalla!"
+Pokemon = NINJASK,20
+Pokemon = ACCELGOR,20
+Pokemon = BARRASKEWDA,20
+Pokemon = CROBAT,20
+Pokemon = WEAVILE,20
+Pokemon = JOLTEON,20
+#-------------------------------
+[LASS,Cientifico ofensivo]
+LoseText = "¡Buena batalla!"
+Pokemon = ALAKAZAM,20
+Pokemon = POLTEAGEIST,20
+Pokemon = DRAMPA,20
+Pokemon = MAGNEZONE,20
+Pokemon = GENGAR,20
+Pokemon = ESPEON,20
+#-------------------------------
+[SUPERNERD,Cientifico entrenador]
+LoseText = "¡Buena batalla!"
+Pokemon = SHUCKLE,20
+Pokemon = CARBINK,20
+Pokemon = MANTINE,20
+Pokemon = CRYOGONAL,20
+Pokemon = ARAQUANID,20
+Pokemon = UMBREON,20
+#-------------------------------
+[CUEBALL,Motoqueiro de Undella]
+LoseText = "..."
+Pokemon = CHARMANDER,100

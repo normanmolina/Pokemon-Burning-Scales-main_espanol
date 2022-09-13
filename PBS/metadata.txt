@@ -1,0 +1,740 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[000]
+Home = 3,9,7,8
+WildBattleBGM = Battle wild.mid
+TrainerBattleBGM = Battle trainer.mid
+WildVictoryME = Battle victory wild.ogg
+TrainerVictoryME = Battle victory trainer.ogg
+SurfBGM = Surfing.mid
+BicycleBGM = Bicycle.mid
+PlayerA = POKEMONTRAINER_Red,trainer_POKEMONTRAINER_Red,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,xxx
+PlayerB = POKEMONTRAINER_Leaf,trainer_POKEMONTRAINER_Leaf,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,xxx
+#-------------------------------
+[001]
+# Intro
+#-------------------------------
+[002]
+# Nimbasa
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,15,4
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+BattleBack = City
+TrainerBattleBGM = Rival Bede GlitchxCity.mp3
+#-------------------------------
+[003]
+# Centro Pokémon
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+HealingSpot = 3,9,7
+MapPosition = 0,15,4
+DiveMap = 3
+DarkMap = false
+SafariMap = false
+BattleBack = IndoorB
+#-------------------------------
+[004]
+# Parque de Nimbasa
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,15,4
+DarkMap = false
+SafariMap = false
+SnapEdges = true
+Dungeon = false
+BattleBack = City
+TrainerBattleBGM = Rival Bede GlitchxCity.mp3
+Environment = None
+#-------------------------------
+[005]
+# Rota 4
+Outdoor = true
+ShowArea = true
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,7
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+BattleBack = Mountain
+WildBattleBGM = Battle wild.mp3
+TrainerBattleBGM = Vs Diantha Retrospecter.mp3
+Environment = Sand
+#-------------------------------
+[006]
+# Desert Resort
+Outdoor = true
+ShowArea = true
+Bicycle = false
+BicycleAlways = false
+Weather = Sandstorm,100
+MapPosition = 0,9,7
+DarkMap = false
+SafariMap = false
+SnapEdges = true
+Dungeon = false
+WildBattleBGM = Battle! (Professor Sycamore).mp3
+Environment = Sand
+#-------------------------------
+[007]
+# Castelia
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,15,15
+DarkMap = false
+SafariMap = false
+SnapEdges = true
+Dungeon = false
+WildBattleBGM = Hops Battle Theme Remix.mp3
+TrainerBattleBGM = Hops Battle Theme Remix.mp3
+MapSize = 2,11
+#-------------------------------
+[008]
+# Relic Castle
+Outdoor = false
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,9,7
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+WildBattleBGM = Battle Rival Alder.mp3
+#-------------------------------
+[009]
+# Casa da Anna
+MapPosition = 0,15,4
+#-------------------------------
+[010]
+# Teatro
+Outdoor = false
+ShowArea = true
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,4
+BattleBack = elite6
+TrainerBattleBGM = Battle! Champion Lillie Raushna.mp3
+#-------------------------------
+[011]
+# Battle Subway
+MapPosition = 0,15,4
+#-------------------------------
+[012]
+# Estádio Grande
+MapPosition = 0,15,4
+#-------------------------------
+[013]
+# Quadra Pequena
+MapPosition = 0,15,4
+#-------------------------------
+[014]
+# Estádio da Comilança
+Outdoor = false
+ShowArea = true
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,4
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+TrainerBattleBGM = Vs Diantha Retrospecter.mp3
+#-------------------------------
+[015]
+# Quarto da filha
+MapPosition = 0,15,4
+#-------------------------------
+[016]
+# Faculdade de Nimbasa de Filosofia
+MapPosition = 0,15,4
+#-------------------------------
+[017]
+# Faculdade de Nimbasa de Filosofia 2F
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,4
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+BattleBack = elite6
+TrainerBattleBGM = Zinnia Mewmore.mp3
+#-------------------------------
+[018]
+# Estádio
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,4
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+BattleBack = Champion
+WildBattleBGM = Professor Sycamore's Theme.mp3
+TrainerBattleBGM = Battle! Champion Lillie Raushna.mp3
+#-------------------------------
+[019]
+# Sala da Anna
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,4
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+BattleBack = Champion
+TrainerBattleBGM = Gladion Battle.mp3
+#-------------------------------
+[020]
+# Passagem
+Outdoor = false
+ShowArea = false
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,15,4
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+#-------------------------------
+[021]
+# Ginásio de Nimbasa
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,4
+TrainerBattleBGM = Battle! Gym Leader - Remix Cover Pokemon Black and White.mp3
+MapSize = 1,11
+#-------------------------------
+[022]
+# Antigo Ginásio de Nimbasa
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,4
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+TrainerBattleBGM = Battle! Gym Leader - Remix Cover Pokemon Black and White.mp3
+#-------------------------------
+[023]
+# Sala do Giovanni
+Outdoor = false
+ShowArea = true
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,4
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+#-------------------------------
+[024]
+# Join Avenue
+Outdoor = false
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+HealingSpot = 23,11,15
+MapPosition = 0,15,6
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+#-------------------------------
+[025]
+# Entrada do Desert Resort
+Outdoor = true
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+Weather = Sandstorm,100
+MapPosition = 0,11,7
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+WildBattleBGM = Battle wild.mp3
+TrainerBattleBGM = Rival Bede GlitchxCity.mp3
+Environment = Sand
+#-------------------------------
+[026]
+# Pesquisador de fósseis
+MapPosition = 0,15,7
+#-------------------------------
+[027]
+# Sala dos fósseis
+MapPosition = 0,15,7
+TrainerBattleBGM = Vs Diantha Retrospecter.mp3
+#-------------------------------
+[028]
+# Entrada
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,4
+#-------------------------------
+[029]
+# Quadra de Tênis
+Bicycle = true
+MapPosition = 0,15,4
+#-------------------------------
+[030]
+# Piscina de Natação
+MapPosition = 0,15,4
+#-------------------------------
+[031]
+# Casa Beethoven
+Outdoor = false
+ShowArea = true
+MapPosition = 0,15,7
+MapSize = 2,1101
+#-------------------------------
+[034]
+# Casa do chefe
+Bicycle = true
+MapPosition = 0,15,7
+#-------------------------------
+[035]
+# Centro Pokémon
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,15
+#-------------------------------
+[036]
+# Game Corner
+Outdoor = false
+ShowArea = true
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,15
+#-------------------------------
+[037]
+# Escritórios de Pesquisa
+MapPosition = 0,15,15
+BattleBack = EliteA
+#-------------------------------
+[038]
+# Loja de Joias
+Outdoor = false
+ShowArea = true
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,15
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+#-------------------------------
+[039]
+# Clube de Hikers
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,15
+MapSize = 2,11
+#-------------------------------
+[040]
+# Clube Cluchar
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,15,15
+#-------------------------------
+[041]
+# Clube Dediê
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,15,15
+MapSize = 1,111
+#-------------------------------
+[043]
+# Central Plaza
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,15
+DarkMap = false
+SafariMap = false
+SnapEdges = true
+TrainerBattleBGM = Hops Battle Theme Remix.mp3
+#-------------------------------
+[044]
+# Delegacia
+Outdoor = false
+ShowArea = true
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,15
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+MapSize = 2,11
+#-------------------------------
+[045]
+# Mode Street
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,15,15
+SnapEdges = true
+#-------------------------------
+[046]
+# Castelia Street
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,15,15
+DarkMap = false
+SafariMap = false
+SnapEdges = true
+Dungeon = false
+TrainerBattleBGM = Hops Battle Theme Remix.mp3
+#-------------------------------
+[047]
+# Narrow Street
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,15,15
+DarkMap = false
+SafariMap = false
+SnapEdges = true
+Dungeon = false
+BattleBack = 
+MapSize = 2,11
+#-------------------------------
+[048]
+# Gym Street
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,15,15
+DarkMap = false
+SafariMap = false
+SnapEdges = true
+Dungeon = false
+#-------------------------------
+[049]
+# Campo de baseball
+Bicycle = true
+MapPosition = 0,15,4
+#-------------------------------
+[050]
+# Campo de futebol
+Bicycle = true
+MapPosition = 0,15,4
+DarkMap = true
+BattleBack = CaveDark
+#-------------------------------
+[051]
+# Quadra de basquete
+Bicycle = true
+MapPosition = 0,15,4
+Dungeon = true
+#-------------------------------
+[052]
+# Caverna Ultra Abismal
+Outdoor = false
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,9,7
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+Environment = Cave
+#-------------------------------
+[053]
+# Teatro Musical
+HealingSpot = 52,17,14
+MapPosition = 0,15,4
+TrainerBattleBGM = Vs Diantha Retrospecter.mp3
+#-------------------------------
+[054]
+# Elevador
+MapPosition = 0,15,7
+#-------------------------------
+[055]
+# Laboratório da Juniper
+HealingSpot = 52,30,10
+MapPosition = 0,15,15
+#-------------------------------
+[056]
+# Corredores
+MapPosition = 0,15,4
+#-------------------------------
+[057]
+# Passagem
+Outdoor = false
+ShowArea = false
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,9,6
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+#-------------------------------
+[058]
+# Esgotos de Castelia
+MapPosition = 0,15,15
+#-------------------------------
+[059]
+# Clube dos Palhaços
+MapPosition = 0,15,15
+BattleBack = EliteD
+#-------------------------------
+[060]
+# Laboratório
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,7
+SnapEdges = false
+Dungeon = false
+WildBattleBGM = Forbidden Melody.mp3
+#-------------------------------
+[061]
+# Sala do Chefe
+MapPosition = 0,15,7
+BattleBack = EliteB
+#-------------------------------
+[062]
+# Casa abandonada
+Outdoor = false
+ShowArea = true
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,15
+DarkMap = true
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+TrainerBattleBGM = Abandoned Ship Remix.mp3
+#-------------------------------
+[063]
+# Estúdio Castelia
+MapPosition = 0,15,15
+#-------------------------------
+[064]
+# Piers
+Outdoor = true
+ShowArea = false
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,15,15
+DarkMap = false
+SafariMap = false
+SnapEdges = true
+Dungeon = false
+BattleBack = 
+TrainerBattleBGM = Hops Battle Theme Remix.mp3
+#-------------------------------
+[065]
+# Prisão
+MapPosition = 0,15,15
+#-------------------------------
+[066]
+# Café Sonata
+Outdoor = false
+ShowArea = true
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,15
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+#-------------------------------
+[067]
+# Battle Company
+Outdoor = false
+ShowArea = true
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,15
+#-------------------------------
+[068]
+# Casa de recepção
+Outdoor = false
+ShowArea = true
+MapPosition = 0,15,6
+SafariMap = true
+BattleBack = Forest
+#-------------------------------
+[069]
+# Casa com aparelhos
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,6
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+#-------------------------------
+[070]
+# Game Corner 1F
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,15
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+#-------------------------------
+[071]
+# Game Corner 2F
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,15
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+#-------------------------------
+[072]
+# Elevador
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,15
+#-------------------------------
+[073]
+# Battle Company 2F
+Outdoor = false
+ShowArea = false
+MapPosition = 0,15,15
+#-------------------------------
+[074]
+# Battle Company 3F
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,15
+#-------------------------------
+[075]
+# Battle Company 4F
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,15
+TrainerBattleBGM = Hops Battle Theme Remix.mp3
+#-------------------------------
+[077]
+# Passagem
+Outdoor = false
+ShowArea = false
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,15,15
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+#-------------------------------
+[081]
+# Parque das estufas
+Outdoor = true
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,15
+DarkMap = false
+SafariMap = false
+SnapEdges = true
+Dungeon = false
+WildBattleBGM = Battle wild.mp3
+#-------------------------------
+[084]
+# Câmara do Volcarona
+Outdoor = false
+ShowArea = false
+Bicycle = true
+BicycleAlways = false
+Weather = Snow,100
+MapPosition = 0,9,6
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+WildBattleBGM = Snowbelle City Remix XY.mp3
+#-------------------------------
+[085]
+# Relic Castle B1F
+Outdoor = false
+ShowArea = false
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,9,7
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+BattleBack = 
+WildBattleBGM = Battle Rival Alder.mp3
+#-------------------------------
+[086]
+# Casa abandonada 2F
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,15
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+WildBattleBGM = Abandoned Ship Remix.mp3
+TrainerBattleBGM = Abandoned Ship Remix.mp3
+#-------------------------------
+[091]
+# Caverna dos Zubats
+Outdoor = false
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+Environment = Cave

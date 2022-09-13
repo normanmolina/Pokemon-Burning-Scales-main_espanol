@@ -1,0 +1,78 @@
+#-------------------------------
+[002] # Nimbasa
+BattleEnv       = CITY
+#-------------------------------
+[004] # Parque de Nimbasa
+BattleEnv       = OUTDOOR
+#-------------------------------
+[005] # Ruta 4
+BattleEnv       = MOUNTAIN
+#-------------------------------
+[006] # Complejo del desierto
+BattleEnv       = MOUNTAIN
+#-------------------------------
+[007] # Castelia
+BattleEnv       = CITY
+#-------------------------------
+[008] # Castillo Reliquia
+BattleEnv       = CAVE
+#-------------------------------
+[017] # Facultad de Nimbasa de Filosofia 2F
+BattleEnv       = INDOOR
+#-------------------------------
+[018] # Estádio
+BattleEnv       = NET
+#-------------------------------
+[019] # Sala de Anna
+BattleEnv       = STAGE
+#-------------------------------
+[021] # Gimansio de Nimbasa
+BattleEnv       = DISCO
+#-------------------------------
+[022] # Antiguo Gimnasio de Nimbasa
+BattleEnv       = STAGE
+#-------------------------------
+[023] # Sala de Giovanni
+BattleEnv       = INDOOR
+#-------------------------------
+[025] # Entrada del Complejo del desierto
+BattleEnv       = MOUNTAIN
+#-------------------------------
+[027] # Sala de fósiles
+BattleEnv       = INDOOR
+#-------------------------------
+[031] # Casa de Beethoven
+BattleEnv       = INDOOR
+#-------------------------------
+[034] # Casa del Jefe
+BattleEnv       = INDOOR
+#-------------------------------
+[037] # Oficinas de Investigación
+BattleEnv       = INDOOR
+#-------------------------------
+[043] # Plaza Central
+BattleEnv       = OUTDOOR
+#-------------------------------
+[046] # Calle Castelia
+BattleEnv       = CITY
+#-------------------------------
+[047] # Calle Narrow
+BattleEnv       = CITY
+#-------------------------------
+[060] # Laboratorio
+BattleEnv       = INDOOR
+#-------------------------------
+[061] # Sala del Jefe
+BattleEnv       = INDOOR
+#-------------------------------
+[064] # Muelles
+BattleEnv       = CITY
+#-------------------------------
+[081] # Parque de invernadero
+BattleEnv       = OUTDOOR
+#-------------------------------
+[084] # Castillo Reliquia B1F
+BattleEnv       = CAVE
+#-------------------------------
+[085] # Castillo Reliquia B1F
+BattleEnv       = CAVE

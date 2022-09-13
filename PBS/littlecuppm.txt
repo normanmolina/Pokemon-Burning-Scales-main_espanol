@@ -1,0 +1,3 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+SUNKERN;TWISTEDSPOON;NAUGHTY;HP,DEF,SA;FACADE,SOLARBEAM,NATUREPOWER,TOXIC
